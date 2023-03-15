@@ -1,0 +1,20 @@
+.cats {
+  display: flex;
+}
+
+.books {
+  border: 1px solid grey;
+  min-width: 200px;
+  min-height: 350px;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+.book > img {
+  width: 190px;
+}
+
+body {
+  background-color: rgb(248, 190, 190);
+}
